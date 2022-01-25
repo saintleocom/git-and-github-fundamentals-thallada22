@@ -114,14 +114,14 @@ I learned about forks which used to contribute to someone else's project
 
 ## Introduction 
 
-I like to learn new technical things
+Ramakrishna i'm from ECE background I finished my graduation in ACE engineering college, now i'm intrested to learn database and do more projects in it
 
 ## Hobbies
 Listing to music 
 Travelling 
 swimming in free time
 
-## Interst towards learning
+## Intrest towards learning
 Looking forward to learn more basics about database and Github.
 
 ## Like to see more off:
