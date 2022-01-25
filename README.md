@@ -105,3 +105,24 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+# :wave: Ramakrishna Thallada 
+
+I learned about repositories which contains all project files and revision history
+I learned about forks which used to contribute to someone else's project
+
+## Introduction 
+
+I like to learn new technical things
+
+## Hobbies
+Listing to music 
+Travelling 
+swimming in free time
+
+## Interst towards learning
+Looking forward to learn more basics about database and Github.
+
+## Like to see more off:
+More hands-on on activities which involves Git and GitHub
