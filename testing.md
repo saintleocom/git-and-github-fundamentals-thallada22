@@ -1,14 +1,17 @@
-# Features that I learned about
+# :wave: Ramakrishna Thallada 
 
-## Forks
-fork is the another way to aquire some one's repository into our dashboard in order to implement our ideas. 
+ I learned about Fork which is used when you want to contribute to someone else’s project
+Repositories contains all of your project’s files and revision history
 
-## Settings
-Transferring ownership to others.
-step 1- click on tranfer --> search for new owner.
-step 2- re-enter repository name as display to conform.
+## Introduction 
 
+## Hobbies
+Listing to music 
+Travelling 
+swimming in free time
 
+## Interst towards learning
+Looking forward to learn more basics about database and Github.
 
-
-
+## Like to see more off:
+More hands-on on activities which involves Git and GitHub
